@@ -1,0 +1,10 @@
+{
+  "Package": {
+    "Name": "Azure Empty",
+    "Description": "An LCU for deploying an empty Azure resource group.",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+  },
+  "EaC": "./assets/eac.json",
+  "Parameters": "./assets/parameters.json"
+}
